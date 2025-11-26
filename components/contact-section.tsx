@@ -116,7 +116,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <div className="font-open-sans font-semibold">Phone</div>
-                  <div className="font-open-sans text-muted-foreground">+1 (555) 123-4567</div>
+                  <div className="font-open-sans text-muted-foreground">+234 (9019222705), +234(9024137871)</div>
                 </div>
               </div>
 
@@ -127,9 +127,9 @@ export function ContactSection() {
                 <div>
                   <div className="font-open-sans font-semibold">Office</div>
                   <div className="font-open-sans text-muted-foreground">
-                    123 Creative Street
+                    80, Thimiggasse, Neu-Gersthof,
                     <br />
-                    Design District, NY 10001
+                    KG Gersthof, Vienna 1180
                   </div>
                 </div>
               </div>

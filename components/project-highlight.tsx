@@ -76,7 +76,7 @@ export function ProjectHighlight() {
                   className="bg-gradient-brand hover:opacity-90 text-white font-open-sans font-semibold rounded-full w-fit"
                   size="lg"
                 >
-                  View Full Case Study
+                  We've Got you covered!
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </div>
