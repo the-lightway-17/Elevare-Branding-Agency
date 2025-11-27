@@ -115,7 +115,7 @@ export function ContactSection() {
                   <Phone className="h-6 w-6 text-white" />
                 </div>
                 <div>
-                  <div className="font-open-sans font-semibold">Phone</div>
+                  <div className="font-open-sans font-semibold">Phone/WhatsApp</div>
                   <div className="font-open-sans text-muted-foreground">+234 (9019222705), +234(9024137871)</div>
                 </div>
               </div>
