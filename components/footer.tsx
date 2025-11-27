@@ -71,7 +71,7 @@ export function Footer() {
 
         {/* Copyright */}
         <div className="border-t border-secondary-foreground/20 pt-8 text-center">
-          <p className="font-open-sans text-secondary-foreground/60">© 2024 Elevare. All rights reserved.</p>
+          <p className="font-open-sans text-secondary-foreground/60">© 2025 Elevare. All rights reserved.</p>
         </div>
       </div>
     </footer>
